@@ -1,0 +1,8 @@
+- name: 'Bordeaux'
+  picture : "https://images.sudouest.fr/2018/10/29/5bd6c37466a4bd9f636a4924/widescreen/1000x500/le-panache-de-fumee-est-visible-de-loin.jpg"
+- name: 'Strasbourg'
+  picture : "https://loipinel.fr/wp-content/uploads/2018/08/investissement-immobilier-pinel-strasbourg.jpg"
+- name: 'Paris'
+  picture : "https://www.parisinfo.com/var/otcp/sites/images/node_43/node_51/node_233/node_7886/dossier-paris-patrimoine-%7C-780x340-%7C-%C2%A9-fotolia/160387-4-fre-FR/Dossier-Paris-Patrimoine-%7C-780x340-%7C-%C2%A9-Fotolia.jpg"
+- name: 'Evreux'
+  picture : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHGDdTpbNjEdC2FTC5uOK-527NjtNXNt6kPVuxptL2uOgM0zITrw"

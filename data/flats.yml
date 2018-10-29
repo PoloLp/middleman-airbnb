@@ -1,0 +1,24 @@
+pah:
+  name: "PAH's home"
+  description: "Charming room in Paradise"
+  city_name: "Heaven, France"
+  city_slug: "Heaven"
+  wifi: false
+  rating: 4
+  picture : "https://media.swncdn.com/cms/CW/31203-heaven-facebook.jpg"
+michmich:
+  name: "Michel's home"
+  description: Small flat in Dallas
+  city_name: "Dallas, USA"
+  city_slug: "Dallas"
+  wifi: true
+  rating: 3
+  picture : "https://www.parisinfo.com/var/otcp/sites/images/node_43/node_51/node_233/node_7886/dossier-paris-patrimoine-%7C-780x340-%7C-%C2%A9-fotolia/160387-4-fre-FR/Dossier-Paris-Patrimoine-%7C-780x340-%7C-%C2%A9-Fotolia.jpg"
+jjac:
+  name: Jean-Jacques's home
+  description: Nice flat in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
+  picture : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHGDdTpbNjEdC2FTC5uOK-527NjtNXNt6kPVuxptL2uOgM0zITrw"
